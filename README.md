@@ -1,50 +1,22 @@
-# Welcome to your Expo app 👋
+# 项目介绍  
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+欢迎来到本项目的GitHub仓库！本项目是关于如何使用 React Native 和 Expo 开发 iOS 天气预报应用的实用代码示例。  
 
-## Get started
+## 使用教程  
 
-1. Install dependencies
+如果您是初学者或想了解更多关于如何使用 React Native 和 Expo 来开发 iOS 应用的内容，我们为您准备了一篇详细的教程。  
+点击下方链接，手把手教您完成整个开发流程：  
 
-   ```bash
-   npm install
-   ```
+👉 [入门：手把手教您如何使用 React Native 和 Expo 开发一个 iOS 天气预报应用](https://kokiyodesu.com/3/%e5%85%a5%e9%97%a8%ef%bc%9a%e6%89%8b%e6%8a%8a%e6%89%8b%e6%95%99%e6%82%a8%e5%a6%82%e4%bd%95%e4%bd%bf%e7%94%a8-react-native-%e5%92%8c-expo-%e5%bc%80%e5%8f%91%e4%b8%80%e4%b8%aa-ios-%e5%a4%a9%e6%b0%94/)  
 
-2. Start the app
+## 项目特点  
 
-   ```bash
-    npx expo start
-   ```
+- 使用 React Native 和 Expo 框架，快速构建 iOS 应用。  
+- 包含天气预报功能的代码示例，支持实时天气数据获取。  
+- 可拓展性强，适合初学者和进阶开发者学习和使用。  
 
-In the output, you'll find options to open the app in a
+## 反馈与贡献  
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+欢迎提出建议或贡献代码！您可以通过提交 Issue 或 Pull Request 的方式参与本项目的改进。  
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+感谢您的关注！希望本项目能对您的开发工作有所帮助！  
